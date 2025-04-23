@@ -1,0 +1,21 @@
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("https://cdn.fonts.net/t/1.css?apiType=css&projectid=4f26a154-0431-4937-a2bf-c8c2bb6d603a");
+  
+@font-face {
+  font-family: "BentonSansPro";
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('BentonSansPro/BentonSansPro_normal_normal_400.woff2') format('woff2'), url('BentonSansPro/BentonSansPro_normal_normal_400.woff') format('woff');
+}
+@font-face {
+  font-family: "BentonSansPro";
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('BentonSansPro/BentonSansPro_normal_normal_700.woff2') format('woff2'), url('BentonSansPro/BentonSansPro_normal_normal_700.woff') format('woff');
+}
